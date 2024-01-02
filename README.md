@@ -1,11 +1,9 @@
 (English Version below)
 ### Hallo 👋
 
-Mein Name ist Lena Morawietz und ich komme aus Sankt Ingbert im wunderschönen Saarland. 
+Mein Name ist Lena Morawietz und ich komme aus dem wunderschönen Saarland. 
 
-Ich studiere Medieninformatik im 6. Semester an der Hochschule Kaiserslautern am Standort Zweibrücken. 
-
-Zur Zeit suche ich ein Pflichtpraktikum um mein Studium erfolgreich abschließen zu können.
+Ich studierte Medieninformatik an der Hochschule Kaiserslautern am Standort Zweibrücken. 
 
 Am Liebsten möchte ich Webseiten und Apps designen und entwickeln, aber ich beschäftige mich auch mit anderen Technologien wie Python.
 
@@ -15,11 +13,9 @@ Du kannst mich über meine [Seite](lenamorawietz.de) oder über [LinkedIn](https
 
 ### Hi there 👋
 
-My name is Lena Morawietz and I'm living in Sankt Ingbert, a small city in the Southwest of Germany.
+My name is Lena Morawietz and I'm living in Saarbrücken, a city in the Southwest of Germany.
 
-I'm studying media informatics at the University of applied sciences Kaiserslautern.
-
-I'm looking for an internship to complete my studies soon. Any help is appreciated.
+I studied media informatics at the University of applied sciences Kaiserslautern.
 
 I enjoy to design and develop websites and apps, but I also want to learn other technologies like Python.
 
