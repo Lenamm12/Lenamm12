@@ -17,7 +17,7 @@ My name is Lena Morawietz and I'm living in Saarbrücken, a city in the Southwes
 
 I studied media informatics at the University of applied sciences Kaiserslautern.
 
-I enjoy to design and develop websites and apps, but I also want to learn other technologies like Python.
+I enjoy designing and developing websites and apps, but I also want to learn other technologies like Python.
 
 You can contact me on my [homepage](lenamorawietz.de) or via [LinkedIn](https://www.linkedin.com/in/lena-morawietz-93a4a3165/) 
 
@@ -41,6 +41,7 @@ You can contact me on my [homepage](lenamorawietz.de) or via [LinkedIn](https://
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typecript/typescriptcript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
