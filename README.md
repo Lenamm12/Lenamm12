@@ -54,7 +54,6 @@ You can contact me on my [homepage](lenamorawietz.de) or via [LinkedIn](https://
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenamm12&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenamm12&theme=vision-friendly-dark&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
