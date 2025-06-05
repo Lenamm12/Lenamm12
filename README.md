@@ -1,7 +1,7 @@
 (English Version below)
 ### Hallo 👋
 
-Mein Name ist Lena Morawietz und ich wohne in Saarbrücken im wunderschönen Saarland. 
+Mein Name ist Lena und ich wohne in Saarbrücken im wunderschönen Saarland. 
 
 Ich studierte Medieninformatik an der Hochschule Kaiserslautern am Standort Zweibrücken. 
 
@@ -13,7 +13,7 @@ Du kannst mich über meine [Seite](lenamorawietz.de) oder über [LinkedIn](https
 
 ### Hi there 👋
 
-My name is Lena Morawietz and I'm living in Saarbrücken, a city in the Southwest of Germany.
+My name is Lena and I'm living in Saarbrücken, a city in the Southwest of Germany.
 
 I studied media informatics at the University of applied sciences Kaiserslautern.
 
